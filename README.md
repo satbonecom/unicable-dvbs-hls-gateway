@@ -17,6 +17,12 @@ small thin clients equipped with PCIe DVB adapters.
 ![Streamer HLS](assets/images/streamer_hls_cap.png)
 
 
+> **Requirements**
+>
+> - Ubuntu Server 22.04 LTS
+> - Supported DVB-S2 PCIe adapter
+> - JESS / Unicable II installation
+
 ## Features
 
 > Streamer HLS combines DVB reception, channel management and HLS streaming in a single lightweight application.

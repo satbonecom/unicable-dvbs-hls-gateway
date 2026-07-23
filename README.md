@@ -50,7 +50,7 @@ Stay simple.
 
 Installation consists of two simple steps.
 
-1. Install TBS drivers.
+1. Install DVB card drivers.
 2. Reboot.
 3. Install Streamer HLS.
 

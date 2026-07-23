@@ -1,12 +1,12 @@
 # Streamer HLS
-### by SatBone
+> by **SatBone**
 
 
 
 Streamer HLS is a lightweight SAT-to-HLS gateway designed for hospitality TV systems using DVB-S2 and JESS / Unicable II.
 
-The HLS streamer was created as an experimental hobby project focusing on the reception of DVB-S2 satellite channels. 
-and publishing them as standard HLS streams. Over time, it evolved into a self-sufficient streaming tool for hotels or IPTV
+Streamer HLS started as a personal hobby project focused on receiving DVB-S2 satellite channels and publishing them as standard HLS streams.
+Over time, it evolved into a lightweight streaming solution for hospitality TV systems and IPTV deployments.
 
 The project was created with simplicity in mind.
 
@@ -18,6 +18,8 @@ small thin clients equipped with PCIe DVB adapters.
 
 
 ## Features
+
+> Streamer HLS combines DVB reception, channel management and HLS streaming in a single lightweight application.
 
 - DVB-S2 multi-adapter support
 - JESS / Unicable II (EN50607)

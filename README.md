@@ -1,4 +1,7 @@
-# unicable-dvbs-hls-gateway
+# Streamer HLS
+by SatBone
+
+
 Self-contained SAT-to-HLS gateway for hotel and property TV systems — multi-tuner DVB-S2/Unicable ingest, per-channel hls making, and a lightweight web UI, built to run reliably as adapter count scales.
 
 The HLS streamer was created as an experimental hobby project focusing on the reception of DVB-S2 satellite channels. 

@@ -10,7 +10,7 @@ Instead of requiring powerful servers or complex container environments,
 Streamer HLS is designed to run reliably even on modest hardware such as
 small thin clients equipped with PCIe DVB adapters.
 
-<img width="1745" height="755" alt="image" src="https://github.com/satbonecom/unicable-dvbs-hls-gateway/assets/images/streamer_hls_cp.png" />
+<img width="1745" height="755" alt="image" src="/assets/images/streamer_hls_cp.png" />
 
 
 ## Features

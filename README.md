@@ -34,7 +34,7 @@ small thin clients equipped with PCIe DVB adapters.
 
 ## Why Streamer HLS?
 
-> **Because satellite streaming shouldn't require enterprise hardware.**
+> Satellite streaming shouldn't require enterprise hardware.
 
 Streamer HLS focuses on one task:
 

@@ -1,0 +1,23 @@
+{
+  "adapter": 99,
+  "http": true,
+  "freq": 4060000,
+  "pol": "V",
+  "sr": 30000000,
+  "delivery_system": "DVBS2",
+  "modulation": "8PSK",
+  "pilot": "AUTO",
+  "rolloff": "0.35",
+  "fec": "3/4",
+  "ub_slot": 99,
+  "ub_freq": 9999000,
+  "sat_pos": 0,
+  "send_jess": true,
+  "services": [
+    {
+      "enabled": 0,
+      "name": "first TS scan placeholder",
+      "service_id": 9999
+    }
+  ]
+}
